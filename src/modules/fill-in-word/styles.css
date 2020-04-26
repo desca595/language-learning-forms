@@ -1,0 +1,7 @@
+.ant-input {
+    max-width: 200px !important;
+    border-top: 0 !important;
+    border-right: 0 !important;
+    border-left: 0 !important;
+    margin: 0 5px 0 10px;
+}
